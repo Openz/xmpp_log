@@ -11,9 +11,9 @@ A web server with php.
 Install
 -------------
 
-Configure the web server for the site directory
-create a symbolic link to the xmpp log directory
-edit bin/init.php
+- Configure the web server for the site directory
+- create a symbolic link to the xmpp log directory
+- edit bin/init.php
 
 Tool 
 -------------
